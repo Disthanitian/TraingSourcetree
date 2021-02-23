@@ -1,0 +1,4 @@
+[submodule "AppModule"]
+	path = AppModule
+	url = https://github.com/Disthanitian/AppModule.git
+	branch = main
